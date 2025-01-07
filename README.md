@@ -139,7 +139,7 @@ src/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](images/home.png)
 
 ### Event Creation
 ![Event Creation](screenshots/event-creation.png)
