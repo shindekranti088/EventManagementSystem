@@ -141,14 +141,11 @@ src/
 ### Home Page
 ![Home Page](src/main/webapp/assets/images/home.png)
 
-### Event Creation
-![Event Creation](screenshots/event-creation.png)
-
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](src/main/webapp/assets/images/admin.png)
 
 ### User Profile
-![User Profile](screenshots/user-profile.png)
+![User Profile](src/main/webapp/assets/images/user.png)
 
 
 
